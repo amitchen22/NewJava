@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>tal test</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>maven.xml</name>
+			<type>1</type>
+			<location>C:/Users/tald/Desktop/projects/chipchat_1_0_Beta2_src_20_3999_lines/chipchat_1_0_Beta2_src_20_3999_lines/maven.xml</location>
+		</link>
+	</linkedResources>
+</projectDescription>
