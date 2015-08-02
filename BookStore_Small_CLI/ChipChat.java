@@ -1,5 +1,5 @@
 /*
- * Created on 2003. 2. 20.
+ * Created on 2003. 2. 20.hgf
  */
 package chipchat;
 
