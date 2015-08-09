@@ -6,7 +6,7 @@ package chipchat;
 import java.util.HashMap;
 
 /**
- * @author Mr.Lee
+ * @author Mr.Lee gfgfb
  */
 public final class ChipChat {
 
